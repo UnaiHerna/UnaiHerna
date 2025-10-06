@@ -13,10 +13,6 @@
 </li>
 
 <li>
-<p>👯 Abierto a colaborar en <strong>proyectos backend, microservicios o automatización de procesos</strong></p>
-</li>
-
-<li>
 <p>📫 Puedes contactarme en: <strong><a href="mailto:unaixiba@gmail.com">unaixiba@gmail.com</a></strong></p>
 </li>
 
